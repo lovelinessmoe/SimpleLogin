@@ -1,0 +1,82 @@
+body {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.head_logo {
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+.head_logo span {
+    color: #2269d4;
+    font-size: 40px;
+    height: 200px;
+    line-height: 200px;
+}
+
+.main_form {
+    text-align: center;
+    margin: 0 auto;
+    line-height: 50px;
+
+}
+
+.main_form img {
+    width: 40px;
+}
+
+.main_form input {
+    height: 50px;
+    width: calc(80% - 40px);
+    /*width: 80%;*/
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: #2269d4 solid;
+}
+
+.button {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.button_button1 {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #2269d4;
+    border-radius: 25px;
+    border: #2269d4 solid;
+
+}
+
+.button_button2 {
+    width: 80%;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 25px;
+    border: #2269d4 solid;
+}
+
+.main_form_span1 {
+    color: white;
+    font-size: 26px;
+}
+
+.main_form_span2 {
+    font-size: 26px;
+    color: #2269d4;
+}
+
+.thirdPart_login{
+    margin-top: 40px;
+}
+
+.thirdPart_login span{
+    margin: 0 20px;
+    font-size: 50px;
+    color: #2269d4;
+}
+
